@@ -1,0 +1,5 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.pdb

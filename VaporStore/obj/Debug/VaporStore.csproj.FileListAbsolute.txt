@@ -1,0 +1,6 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\VaporStore\bin\Debug\VaporStore.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\VaporStore\bin\Debug\VaporStore.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\VaporStore\bin\Debug\VaporStore.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\VaporStore\obj\Debug\VaporStore.csprojResolveAssemblyReference.cache
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\VaporStore\obj\Debug\VaporStore.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\VaporStore\obj\Debug\VaporStore.pdb

@@ -1,0 +1,5 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\SMSTexting\bin\Debug\SMSTexting.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\SMSTexting\bin\Debug\SMSTexting.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\SMSTexting\bin\Debug\SMSTexting.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\SMSTexting\obj\Debug\SMSTexting.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\SMSTexting\obj\Debug\SMSTexting.pdb
