@@ -16,42 +16,31 @@ namespace SMSTexting
             for (int i = 0; i < n; i++)
             {
                 string letter = Console.ReadLine();
-                char button = letter[0];
-                switch (button)
+
+                if (letter == "0")
                 {
-                    case '0':
-                        msg += " ";
-                        break;
-                    case '2':
-                       //letter.Length-3 = 'a';
-                        msg += "a";
-                        break;
-                    case '3':
-                        msg += "";
-                        break;
-                    case '4':
-                        msg += "";
-                        break;
-                    case '5':
-                        msg += "";
-                        break;
-                    case '6':
-                        msg += "";
-                        break;
-                    case '7':
-                        msg += "";
-                        break;
-                    case '8':
-                        msg += "";
-                        break;
-                    case '9':
-                        msg += "";
-                        break;
-                    default:
-                        break;
+                    msg += " ";
+                }
+                else
+                {
+                    int mainDigit = (int)Char.GetNumericValue(letter[0]);
+                    int numberOfDigits = letter.Length;
+                    int offset = (mainDigit - 2) * 3;
+
+                    if (mainDigit == 8 || mainDigit == 9)
+                    {
+                        offset++;
+                    }
+
+                    int letterIndex = offset + numberOfDigits - 1;
+
+                    char currentLetter = (char)(letterIndex + 97);
+                    msg += currentLetter;
                 }
             }
             Console.WriteLine(msg);
         }
     }
 }
+
+

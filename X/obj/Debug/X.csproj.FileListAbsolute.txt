@@ -3,3 +3,4 @@ D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\X\bin\Debug\X.
 D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\X\bin\Debug\X.pdb
 D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\X\obj\Debug\X.exe
 D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\X\obj\Debug\X.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-26\X\obj\Debug\X.csprojResolveAssemblyReference.cache
